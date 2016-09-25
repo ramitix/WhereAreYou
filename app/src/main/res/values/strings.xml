@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhereAreYou</string>
+    <string name="title_activity_map">WhereAreYou</string>
+    <string name="text3">WhereAreYou</string>
+    <string name="username_required">Please enter a valid iCloud Email </string>
+    <string name="Password_required">Please enter a valid Password </string>
+    <string name="sign_in">Sign in</string>
+</resources>
